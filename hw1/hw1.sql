@@ -1,0 +1,13 @@
+
+-- SELECT * FROM employees WHERE job_id = 'FI_ACCOUNT';
+-- SELECT * FROM employees WHERE salary < 12000;
+-- SELECT * FROM employees WHERE department_id IN (70, 80, 100);
+-- SELECT * FROM employees WHERE first_name LIKE 'D%';
+-- SELECT * FROM employees WHERE department_id IN (70, 80, 100);
+-- SELECT * FROM employees WHERE employee_id BETWEEN 108 AND 143;
+-- SELECT first_name, last_name FROM employees WHERE phone LIKE '590%';
+-- SELECT * FROM employees WHERE 
+-- salary > 1000 AND job_id = 'IT_PROG' AND phone LIKE '590%';
+-- --
+-- SELECT * FROM employees WHERE
+-- salary BETWEEN 8000 AND 10000 AND commission_pct IS NOT NULL;
